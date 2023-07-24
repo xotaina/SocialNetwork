@@ -1,6 +1,6 @@
 
 use('socialnetwork')
 
-db.user('name': 'Tommy')
+db.user({'name': 'Tommy'})
   
   
