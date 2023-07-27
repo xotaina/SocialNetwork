@@ -26,6 +26,9 @@ To run this application, please download the code from the [project repository](
 ## Usage
 After the installation, run `npm start` or `node server.js` in the terminal to start the application. 
 
+## Walk through Video
+https://drive.google.com/file/d/1O2KOPsFSMoQEFvISWfY5pRV8pSzuR6_r/view
+
 ## Contributors
 - Theresa J
 - Tanisha B
