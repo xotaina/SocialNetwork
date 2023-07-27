@@ -1,6 +1,6 @@
 const { Schema, model } = require('mongoose');
 const reactionSchema = require('./reaction');
-const format = require('date-fns/format');
+const format = require('../util/format');
 
 // Schema to create Thought model
 const thoughtSchema = new Schema(
